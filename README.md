@@ -1,6 +1,7 @@
 # About
 
 This is the coding part of the project ELEC70121 Trustworthy Artificial Intelligence in Medical Imaging.
+Includes the final report as well.
 
 # Abstract
 
@@ -8,15 +9,15 @@ This work presents a novel Deep Reinforcement Learning
 approach for optimizing k-space vertical line selection in undersampled
 Magnetic Resonance Imaging (MRI). By training a Deep Q-Network
 (DQN) agent to directly learn a sampling policy from reconstruction
-quality feedback (PSNR and SSIM), we demonstrate its ability to dis-
-cover strategies superior to common heuristics, especially in high uncer-
-tainty regimes. Experimental results demonstrate significant quantitative
-gains, suggesting that actively tailoring sampling patterns to specific im-
-age content and the reconstruction process through RL can substantially
+quality feedback (PSNR and SSIM), we demonstrate its ability to discover 
+strategies superior to common heuristics, especially in high uncertainty regimes. 
+Experimental results demonstrate significant quantitative
+gains, suggesting that actively tailoring sampling patterns to specific image 
+content and the reconstruction process through RL can substantially
 improve accelerated MRI performance within a fixed acquisition budget.
 This work highlights the potential of reinforcement learning for precise
-image reconstruction within the MRI workflow, opening promising av-
-enues for further improvement of clinical MRI technologies.
+image reconstruction within the MRI workflow, opening promising avenues 
+for further improvement of clinical MRI technologies.
 
 # Cite
 
