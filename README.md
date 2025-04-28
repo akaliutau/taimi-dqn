@@ -1,7 +1,10 @@
 # About
 
+
 This is the coding part of the project ELEC70121 Trustworthy Artificial Intelligence in Medical Imaging.
 Includes the final report as well.
+
+Title: Deep Q-Networks in Adaptive k-space Sampling for Precision MRI
 
 # Abstract
 
@@ -29,7 +32,7 @@ If you use code or ideas, please cite this repository
   author={Kaliutau, Aliaksei},
   publisher = {GitHub},
   journal = {GitHub repository},
-  url = {https://github.com/akaliutau/taimi-dqn}
+  url = {https://github.com/akaliutau/taimi-dqn},
   year={2025}
 }
 ```
